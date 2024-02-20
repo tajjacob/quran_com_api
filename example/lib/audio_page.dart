@@ -10,7 +10,9 @@ class AudioPage extends StatelessWidget {
   Widget build(BuildContext context) {
     AudioFile? audioFileModel;
     List<AudioFile>? audioFileList;
+    List<Recitation>? recitationList;
     AudioFileRepoInterface audioFileRepo = AudioFileRepoInterface();
+    RecitationRepoInterface recitationRepo = RecitationRepoInterface();
     return Scaffold(
       appBar: AppBar(
         title: const Text('Audio Page'),
@@ -41,6 +43,15 @@ class AudioPage extends StatelessWidget {
                   log('audioFileModel: ${audioFileList?.first.audioUrl}');
                 },
                 child: const Text('Get Audio File List'),
+              ),
+              ElevatedButton(
+                onPressed: () async {
+                  recitationList = await recitationRepo.getRecitationList(
+                    language: 'my',
+                  );
+                  log('recitationList: ${recitationList?.first.reciterName}');
+                },
+                child: const Text('Get Recitation List'),
               ),
             ],
           ),
