@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'audio_page.dart';
+import 'features/audio/presentation/pages/audio_page.dart';
 
 void main() {
   runApp(const MyApp());

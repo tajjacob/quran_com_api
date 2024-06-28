@@ -13,7 +13,7 @@ abstract class RecitationRepoInterface {
 }
 
 class RecitationRepo implements RecitationRepoInterface {
-  String recitationUrl = APIConstants.recitationUrl;
+  String recitationUrl = APIConstants.recitationListUrl;
 
   @override
   Future<List<Recitation>?> getRecitationList({
