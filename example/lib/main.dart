@@ -1,9 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'features/audio/presentation/pages/audio_page.dart';
+import 'features/audio/presentation/widgets/audio_file_consumer.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    const ProviderScope(
+      child: MyApp(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -91,6 +97,18 @@ class _MyHomePageState extends State<MyHomePage> {
                 );
               },
               child: const Text('Go to Audio Page'),
+            ),
+            const SizedBox(height: 20),
+            ElevatedButton(
+              child: const Text('Go to AudioFileConsumer'),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const AudioFileConsumer(),
+                  ),
+                );
+              },
             ),
           ],
         ),
