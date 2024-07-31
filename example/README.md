@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Refer here for full API documentation:
+https://api-docs.quran.com/docs/category/quran.com-api
 
 A few resources to get you started if this is your first Flutter project:
 
