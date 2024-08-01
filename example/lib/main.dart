@@ -1,3 +1,4 @@
+import 'package:example/features/quran_images/presentation/pages/quran_image_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -109,6 +110,18 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 );
               },
+            ),
+            const SizedBox(height: 20),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const QuranImagePage(),
+                  ),
+                );
+              },
+              child: const Text('Go to Quran Image Page'),
             ),
           ],
         ),
