@@ -1,0 +1,2418 @@
+[
+  {
+    "quranPage": "1",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page001.png"
+  },
+  {
+    "quranPage": "2",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page002.png"
+  },
+  {
+    "quranPage": "3",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page003.png"
+  },
+  {
+    "quranPage": "4",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page004.png"
+  },
+  {
+    "quranPage": "5",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page005.png"
+  },
+  {
+    "quranPage": "6",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page006.png"
+  },
+  {
+    "quranPage": "7",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page007.png"
+  },
+  {
+    "quranPage": "8",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page008.png"
+  },
+  {
+    "quranPage": "9",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page009.png"
+  },
+  {
+    "quranPage": "10",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page010.png"
+  },
+  {
+    "quranPage": "11",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page011.png"
+  },
+  {
+    "quranPage": "12",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page012.png"
+  },
+  {
+    "quranPage": "13",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page013.png"
+  },
+  {
+    "quranPage": "14",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page014.png"
+  },
+  {
+    "quranPage": "15",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page015.png"
+  },
+  {
+    "quranPage": "16",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page016.png"
+  },
+  {
+    "quranPage": "17",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page017.png"
+  },
+  {
+    "quranPage": "18",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page018.png"
+  },
+  {
+    "quranPage": "19",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page019.png"
+  },
+  {
+    "quranPage": "20",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page020.png"
+  },
+  {
+    "quranPage": "21",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page021.png"
+  },
+  {
+    "quranPage": "22",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page022.png"
+  },
+  {
+    "quranPage": "23",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page023.png"
+  },
+  {
+    "quranPage": "24",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page024.png"
+  },
+  {
+    "quranPage": "25",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page025.png"
+  },
+  {
+    "quranPage": "26",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page026.png"
+  },
+  {
+    "quranPage": "27",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page027.png"
+  },
+  {
+    "quranPage": "28",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page028.png"
+  },
+  {
+    "quranPage": "29",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page029.png"
+  },
+  {
+    "quranPage": "30",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page030.png"
+  },
+  {
+    "quranPage": "31",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page031.png"
+  },
+  {
+    "quranPage": "32",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page032.png"
+  },
+  {
+    "quranPage": "33",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page033.png"
+  },
+  {
+    "quranPage": "34",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page034.png"
+  },
+  {
+    "quranPage": "35",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page035.png"
+  },
+  {
+    "quranPage": "36",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page036.png"
+  },
+  {
+    "quranPage": "37",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page037.png"
+  },
+  {
+    "quranPage": "38",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page038.png"
+  },
+  {
+    "quranPage": "39",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page039.png"
+  },
+  {
+    "quranPage": "40",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page040.png"
+  },
+  {
+    "quranPage": "41",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page041.png"
+  },
+  {
+    "quranPage": "42",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page042.png"
+  },
+  {
+    "quranPage": "43",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page043.png"
+  },
+  {
+    "quranPage": "44",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page044.png"
+  },
+  {
+    "quranPage": "45",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page045.png"
+  },
+  {
+    "quranPage": "46",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page046.png"
+  },
+  {
+    "quranPage": "47",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page047.png"
+  },
+  {
+    "quranPage": "48",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page048.png"
+  },
+  {
+    "quranPage": "49",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page049.png"
+  },
+  {
+    "quranPage": "50",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page050.png"
+  },
+  {
+    "quranPage": "51",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page051.png"
+  },
+  {
+    "quranPage": "52",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page052.png"
+  },
+  {
+    "quranPage": "53",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page053.png"
+  },
+  {
+    "quranPage": "54",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page054.png"
+  },
+  {
+    "quranPage": "55",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page055.png"
+  },
+  {
+    "quranPage": "56",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page056.png"
+  },
+  {
+    "quranPage": "57",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page057.png"
+  },
+  {
+    "quranPage": "58",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page058.png"
+  },
+  {
+    "quranPage": "59",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page059.png"
+  },
+  {
+    "quranPage": "60",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page060.png"
+  },
+  {
+    "quranPage": "61",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page061.png"
+  },
+  {
+    "quranPage": "62",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page062.png"
+  },
+  {
+    "quranPage": "63",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page063.png"
+  },
+  {
+    "quranPage": "64",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page064.png"
+  },
+  {
+    "quranPage": "65",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page065.png"
+  },
+  {
+    "quranPage": "66",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page066.png"
+  },
+  {
+    "quranPage": "67",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page067.png"
+  },
+  {
+    "quranPage": "68",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page068.png"
+  },
+  {
+    "quranPage": "69",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page069.png"
+  },
+  {
+    "quranPage": "70",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page070.png"
+  },
+  {
+    "quranPage": "71",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page071.png"
+  },
+  {
+    "quranPage": "72",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page072.png"
+  },
+  {
+    "quranPage": "73",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page073.png"
+  },
+  {
+    "quranPage": "74",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page074.png"
+  },
+  {
+    "quranPage": "75",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page075.png"
+  },
+  {
+    "quranPage": "76",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page076.png"
+  },
+  {
+    "quranPage": "77",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page077.png"
+  },
+  {
+    "quranPage": "78",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page078.png"
+  },
+  {
+    "quranPage": "79",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page079.png"
+  },
+  {
+    "quranPage": "80",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page080.png"
+  },
+  {
+    "quranPage": "81",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page081.png"
+  },
+  {
+    "quranPage": "82",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page082.png"
+  },
+  {
+    "quranPage": "83",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page083.png"
+  },
+  {
+    "quranPage": "84",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page084.png"
+  },
+  {
+    "quranPage": "85",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page085.png"
+  },
+  {
+    "quranPage": "86",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page086.png"
+  },
+  {
+    "quranPage": "87",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page087.png"
+  },
+  {
+    "quranPage": "88",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page088.png"
+  },
+  {
+    "quranPage": "89",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page089.png"
+  },
+  {
+    "quranPage": "90",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page090.png"
+  },
+  {
+    "quranPage": "91",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page091.png"
+  },
+  {
+    "quranPage": "92",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page092.png"
+  },
+  {
+    "quranPage": "93",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page093.png"
+  },
+  {
+    "quranPage": "94",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page094.png"
+  },
+  {
+    "quranPage": "95",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page095.png"
+  },
+  {
+    "quranPage": "96",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page096.png"
+  },
+  {
+    "quranPage": "97",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page097.png"
+  },
+  {
+    "quranPage": "98",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page098.png"
+  },
+  {
+    "quranPage": "99",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page099.png"
+  },
+  {
+    "quranPage": "100",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page100.png"
+  },
+  {
+    "quranPage": "101",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page101.png"
+  },
+  {
+    "quranPage": "102",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page102.png"
+  },
+  {
+    "quranPage": "103",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page103.png"
+  },
+  {
+    "quranPage": "104",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page104.png"
+  },
+  {
+    "quranPage": "105",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page105.png"
+  },
+  {
+    "quranPage": "106",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page106.png"
+  },
+  {
+    "quranPage": "107",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page107.png"
+  },
+  {
+    "quranPage": "108",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page108.png"
+  },
+  {
+    "quranPage": "109",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page109.png"
+  },
+  {
+    "quranPage": "110",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page110.png"
+  },
+  {
+    "quranPage": "111",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page111.png"
+  },
+  {
+    "quranPage": "112",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page112.png"
+  },
+  {
+    "quranPage": "113",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page113.png"
+  },
+  {
+    "quranPage": "114",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page114.png"
+  },
+  {
+    "quranPage": "115",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page115.png"
+  },
+  {
+    "quranPage": "116",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page116.png"
+  },
+  {
+    "quranPage": "117",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page117.png"
+  },
+  {
+    "quranPage": "118",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page118.png"
+  },
+  {
+    "quranPage": "119",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page119.png"
+  },
+  {
+    "quranPage": "120",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page120.png"
+  },
+  {
+    "quranPage": "121",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page121.png"
+  },
+  {
+    "quranPage": "122",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page122.png"
+  },
+  {
+    "quranPage": "123",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page123.png"
+  },
+  {
+    "quranPage": "124",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page124.png"
+  },
+  {
+    "quranPage": "125",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page125.png"
+  },
+  {
+    "quranPage": "126",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page126.png"
+  },
+  {
+    "quranPage": "127",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page127.png"
+  },
+  {
+    "quranPage": "128",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page128.png"
+  },
+  {
+    "quranPage": "129",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page129.png"
+  },
+  {
+    "quranPage": "130",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page130.png"
+  },
+  {
+    "quranPage": "131",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page131.png"
+  },
+  {
+    "quranPage": "132",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page132.png"
+  },
+  {
+    "quranPage": "133",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page133.png"
+  },
+  {
+    "quranPage": "134",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page134.png"
+  },
+  {
+    "quranPage": "135",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page135.png"
+  },
+  {
+    "quranPage": "136",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page136.png"
+  },
+  {
+    "quranPage": "137",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page137.png"
+  },
+  {
+    "quranPage": "138",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page138.png"
+  },
+  {
+    "quranPage": "139",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page139.png"
+  },
+  {
+    "quranPage": "140",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page140.png"
+  },
+  {
+    "quranPage": "141",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page141.png"
+  },
+  {
+    "quranPage": "142",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page142.png"
+  },
+  {
+    "quranPage": "143",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page143.png"
+  },
+  {
+    "quranPage": "144",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page144.png"
+  },
+  {
+    "quranPage": "145",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page145.png"
+  },
+  {
+    "quranPage": "146",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page146.png"
+  },
+  {
+    "quranPage": "147",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page147.png"
+  },
+  {
+    "quranPage": "148",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page148.png"
+  },
+  {
+    "quranPage": "149",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page149.png"
+  },
+  {
+    "quranPage": "150",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page150.png"
+  },
+  {
+    "quranPage": "151",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page151.png"
+  },
+  {
+    "quranPage": "152",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page152.png"
+  },
+  {
+    "quranPage": "153",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page153.png"
+  },
+  {
+    "quranPage": "154",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page154.png"
+  },
+  {
+    "quranPage": "155",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page155.png"
+  },
+  {
+    "quranPage": "156",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page156.png"
+  },
+  {
+    "quranPage": "157",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page157.png"
+  },
+  {
+    "quranPage": "158",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page158.png"
+  },
+  {
+    "quranPage": "159",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page159.png"
+  },
+  {
+    "quranPage": "160",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page160.png"
+  },
+  {
+    "quranPage": "161",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page161.png"
+  },
+  {
+    "quranPage": "162",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page162.png"
+  },
+  {
+    "quranPage": "163",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page163.png"
+  },
+  {
+    "quranPage": "164",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page164.png"
+  },
+  {
+    "quranPage": "165",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page165.png"
+  },
+  {
+    "quranPage": "166",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page166.png"
+  },
+  {
+    "quranPage": "167",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page167.png"
+  },
+  {
+    "quranPage": "168",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page168.png"
+  },
+  {
+    "quranPage": "169",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page169.png"
+  },
+  {
+    "quranPage": "170",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page170.png"
+  },
+  {
+    "quranPage": "171",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page171.png"
+  },
+  {
+    "quranPage": "172",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page172.png"
+  },
+  {
+    "quranPage": "173",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page173.png"
+  },
+  {
+    "quranPage": "174",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page174.png"
+  },
+  {
+    "quranPage": "175",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page175.png"
+  },
+  {
+    "quranPage": "176",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page176.png"
+  },
+  {
+    "quranPage": "177",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page177.png"
+  },
+  {
+    "quranPage": "178",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page178.png"
+  },
+  {
+    "quranPage": "179",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page179.png"
+  },
+  {
+    "quranPage": "180",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page180.png"
+  },
+  {
+    "quranPage": "181",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page181.png"
+  },
+  {
+    "quranPage": "182",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page182.png"
+  },
+  {
+    "quranPage": "183",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page183.png"
+  },
+  {
+    "quranPage": "184",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page184.png"
+  },
+  {
+    "quranPage": "185",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page185.png"
+  },
+  {
+    "quranPage": "186",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page186.png"
+  },
+  {
+    "quranPage": "187",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page187.png"
+  },
+  {
+    "quranPage": "188",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page188.png"
+  },
+  {
+    "quranPage": "189",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page189.png"
+  },
+  {
+    "quranPage": "190",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page190.png"
+  },
+  {
+    "quranPage": "191",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page191.png"
+  },
+  {
+    "quranPage": "192",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page192.png"
+  },
+  {
+    "quranPage": "193",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page193.png"
+  },
+  {
+    "quranPage": "194",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page194.png"
+  },
+  {
+    "quranPage": "195",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page195.png"
+  },
+  {
+    "quranPage": "196",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page196.png"
+  },
+  {
+    "quranPage": "197",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page197.png"
+  },
+  {
+    "quranPage": "198",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page198.png"
+  },
+  {
+    "quranPage": "199",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page199.png"
+  },
+  {
+    "quranPage": "200",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page200.png"
+  },
+  {
+    "quranPage": "201",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page201.png"
+  },
+  {
+    "quranPage": "202",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page202.png"
+  },
+  {
+    "quranPage": "203",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page203.png"
+  },
+  {
+    "quranPage": "204",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page204.png"
+  },
+  {
+    "quranPage": "205",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page205.png"
+  },
+  {
+    "quranPage": "206",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page206.png"
+  },
+  {
+    "quranPage": "207",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page207.png"
+  },
+  {
+    "quranPage": "208",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page208.png"
+  },
+  {
+    "quranPage": "209",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page209.png"
+  },
+  {
+    "quranPage": "210",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page210.png"
+  },
+  {
+    "quranPage": "211",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page211.png"
+  },
+  {
+    "quranPage": "212",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page212.png"
+  },
+  {
+    "quranPage": "213",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page213.png"
+  },
+  {
+    "quranPage": "214",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page214.png"
+  },
+  {
+    "quranPage": "215",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page215.png"
+  },
+  {
+    "quranPage": "216",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page216.png"
+  },
+  {
+    "quranPage": "217",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page217.png"
+  },
+  {
+    "quranPage": "218",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page218.png"
+  },
+  {
+    "quranPage": "219",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page219.png"
+  },
+  {
+    "quranPage": "220",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page220.png"
+  },
+  {
+    "quranPage": "221",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page221.png"
+  },
+  {
+    "quranPage": "222",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page222.png"
+  },
+  {
+    "quranPage": "223",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page223.png"
+  },
+  {
+    "quranPage": "224",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page224.png"
+  },
+  {
+    "quranPage": "225",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page225.png"
+  },
+  {
+    "quranPage": "226",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page226.png"
+  },
+  {
+    "quranPage": "227",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page227.png"
+  },
+  {
+    "quranPage": "228",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page228.png"
+  },
+  {
+    "quranPage": "229",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page229.png"
+  },
+  {
+    "quranPage": "230",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page230.png"
+  },
+  {
+    "quranPage": "231",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page231.png"
+  },
+  {
+    "quranPage": "232",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page232.png"
+  },
+  {
+    "quranPage": "233",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page233.png"
+  },
+  {
+    "quranPage": "234",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page234.png"
+  },
+  {
+    "quranPage": "235",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page235.png"
+  },
+  {
+    "quranPage": "236",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page236.png"
+  },
+  {
+    "quranPage": "237",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page237.png"
+  },
+  {
+    "quranPage": "238",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page238.png"
+  },
+  {
+    "quranPage": "239",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page239.png"
+  },
+  {
+    "quranPage": "240",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page240.png"
+  },
+  {
+    "quranPage": "241",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page241.png"
+  },
+  {
+    "quranPage": "242",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page242.png"
+  },
+  {
+    "quranPage": "243",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page243.png"
+  },
+  {
+    "quranPage": "244",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page244.png"
+  },
+  {
+    "quranPage": "245",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page245.png"
+  },
+  {
+    "quranPage": "246",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page246.png"
+  },
+  {
+    "quranPage": "247",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page247.png"
+  },
+  {
+    "quranPage": "248",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page248.png"
+  },
+  {
+    "quranPage": "249",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page249.png"
+  },
+  {
+    "quranPage": "250",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page250.png"
+  },
+  {
+    "quranPage": "251",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page251.png"
+  },
+  {
+    "quranPage": "252",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page252.png"
+  },
+  {
+    "quranPage": "253",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page253.png"
+  },
+  {
+    "quranPage": "254",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page254.png"
+  },
+  {
+    "quranPage": "255",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page255.png"
+  },
+  {
+    "quranPage": "256",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page256.png"
+  },
+  {
+    "quranPage": "257",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page257.png"
+  },
+  {
+    "quranPage": "258",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page258.png"
+  },
+  {
+    "quranPage": "259",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page259.png"
+  },
+  {
+    "quranPage": "260",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page260.png"
+  },
+  {
+    "quranPage": "261",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page261.png"
+  },
+  {
+    "quranPage": "262",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page262.png"
+  },
+  {
+    "quranPage": "263",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page263.png"
+  },
+  {
+    "quranPage": "264",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page264.png"
+  },
+  {
+    "quranPage": "265",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page265.png"
+  },
+  {
+    "quranPage": "266",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page266.png"
+  },
+  {
+    "quranPage": "267",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page267.png"
+  },
+  {
+    "quranPage": "268",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page268.png"
+  },
+  {
+    "quranPage": "269",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page269.png"
+  },
+  {
+    "quranPage": "270",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page270.png"
+  },
+  {
+    "quranPage": "271",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page271.png"
+  },
+  {
+    "quranPage": "272",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page272.png"
+  },
+  {
+    "quranPage": "273",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page273.png"
+  },
+  {
+    "quranPage": "274",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page274.png"
+  },
+  {
+    "quranPage": "275",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page275.png"
+  },
+  {
+    "quranPage": "276",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page276.png"
+  },
+  {
+    "quranPage": "277",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page277.png"
+  },
+  {
+    "quranPage": "278",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page278.png"
+  },
+  {
+    "quranPage": "279",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page279.png"
+  },
+  {
+    "quranPage": "280",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page280.png"
+  },
+  {
+    "quranPage": "281",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page281.png"
+  },
+  {
+    "quranPage": "282",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page282.png"
+  },
+  {
+    "quranPage": "283",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page283.png"
+  },
+  {
+    "quranPage": "284",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page284.png"
+  },
+  {
+    "quranPage": "285",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page285.png"
+  },
+  {
+    "quranPage": "286",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page286.png"
+  },
+  {
+    "quranPage": "287",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page287.png"
+  },
+  {
+    "quranPage": "288",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page288.png"
+  },
+  {
+    "quranPage": "289",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page289.png"
+  },
+  {
+    "quranPage": "290",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page290.png"
+  },
+  {
+    "quranPage": "291",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page291.png"
+  },
+  {
+    "quranPage": "292",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page292.png"
+  },
+  {
+    "quranPage": "293",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page293.png"
+  },
+  {
+    "quranPage": "294",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page294.png"
+  },
+  {
+    "quranPage": "295",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page295.png"
+  },
+  {
+    "quranPage": "296",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page296.png"
+  },
+  {
+    "quranPage": "297",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page297.png"
+  },
+  {
+    "quranPage": "298",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page298.png"
+  },
+  {
+    "quranPage": "299",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page299.png"
+  },
+  {
+    "quranPage": "300",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page300.png"
+  },
+  {
+    "quranPage": "301",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page301.png"
+  },
+  {
+    "quranPage": "302",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page302.png"
+  },
+  {
+    "quranPage": "303",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page303.png"
+  },
+  {
+    "quranPage": "304",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page304.png"
+  },
+  {
+    "quranPage": "305",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page305.png"
+  },
+  {
+    "quranPage": "306",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page306.png"
+  },
+  {
+    "quranPage": "307",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page307.png"
+  },
+  {
+    "quranPage": "308",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page308.png"
+  },
+  {
+    "quranPage": "309",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page309.png"
+  },
+  {
+    "quranPage": "310",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page310.png"
+  },
+  {
+    "quranPage": "311",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page311.png"
+  },
+  {
+    "quranPage": "312",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page312.png"
+  },
+  {
+    "quranPage": "313",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page313.png"
+  },
+  {
+    "quranPage": "314",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page314.png"
+  },
+  {
+    "quranPage": "315",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page315.png"
+  },
+  {
+    "quranPage": "316",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page316.png"
+  },
+  {
+    "quranPage": "317",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page317.png"
+  },
+  {
+    "quranPage": "318",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page318.png"
+  },
+  {
+    "quranPage": "319",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page319.png"
+  },
+  {
+    "quranPage": "320",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page320.png"
+  },
+  {
+    "quranPage": "321",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page321.png"
+  },
+  {
+    "quranPage": "322",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page322.png"
+  },
+  {
+    "quranPage": "323",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page323.png"
+  },
+  {
+    "quranPage": "324",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page324.png"
+  },
+  {
+    "quranPage": "325",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page325.png"
+  },
+  {
+    "quranPage": "326",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page326.png"
+  },
+  {
+    "quranPage": "327",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page327.png"
+  },
+  {
+    "quranPage": "328",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page328.png"
+  },
+  {
+    "quranPage": "329",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page329.png"
+  },
+  {
+    "quranPage": "330",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page330.png"
+  },
+  {
+    "quranPage": "331",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page331.png"
+  },
+  {
+    "quranPage": "332",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page332.png"
+  },
+  {
+    "quranPage": "333",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page333.png"
+  },
+  {
+    "quranPage": "334",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page334.png"
+  },
+  {
+    "quranPage": "335",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page335.png"
+  },
+  {
+    "quranPage": "336",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page336.png"
+  },
+  {
+    "quranPage": "337",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page337.png"
+  },
+  {
+    "quranPage": "338",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page338.png"
+  },
+  {
+    "quranPage": "339",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page339.png"
+  },
+  {
+    "quranPage": "340",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page340.png"
+  },
+  {
+    "quranPage": "341",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page341.png"
+  },
+  {
+    "quranPage": "342",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page342.png"
+  },
+  {
+    "quranPage": "343",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page343.png"
+  },
+  {
+    "quranPage": "344",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page344.png"
+  },
+  {
+    "quranPage": "345",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page345.png"
+  },
+  {
+    "quranPage": "346",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page346.png"
+  },
+  {
+    "quranPage": "347",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page347.png"
+  },
+  {
+    "quranPage": "348",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page348.png"
+  },
+  {
+    "quranPage": "349",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page349.png"
+  },
+  {
+    "quranPage": "350",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page350.png"
+  },
+  {
+    "quranPage": "351",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page351.png"
+  },
+  {
+    "quranPage": "352",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page352.png"
+  },
+  {
+    "quranPage": "353",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page353.png"
+  },
+  {
+    "quranPage": "354",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page354.png"
+  },
+  {
+    "quranPage": "355",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page355.png"
+  },
+  {
+    "quranPage": "356",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page356.png"
+  },
+  {
+    "quranPage": "357",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page357.png"
+  },
+  {
+    "quranPage": "358",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page358.png"
+  },
+  {
+    "quranPage": "359",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page359.png"
+  },
+  {
+    "quranPage": "360",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page360.png"
+  },
+  {
+    "quranPage": "361",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page361.png"
+  },
+  {
+    "quranPage": "362",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page362.png"
+  },
+  {
+    "quranPage": "363",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page363.png"
+  },
+  {
+    "quranPage": "364",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page364.png"
+  },
+  {
+    "quranPage": "365",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page365.png"
+  },
+  {
+    "quranPage": "366",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page366.png"
+  },
+  {
+    "quranPage": "367",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page367.png"
+  },
+  {
+    "quranPage": "368",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page368.png"
+  },
+  {
+    "quranPage": "369",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page369.png"
+  },
+  {
+    "quranPage": "370",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page370.png"
+  },
+  {
+    "quranPage": "371",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page371.png"
+  },
+  {
+    "quranPage": "372",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page372.png"
+  },
+  {
+    "quranPage": "373",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page373.png"
+  },
+  {
+    "quranPage": "374",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page374.png"
+  },
+  {
+    "quranPage": "375",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page375.png"
+  },
+  {
+    "quranPage": "376",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page376.png"
+  },
+  {
+    "quranPage": "377",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page377.png"
+  },
+  {
+    "quranPage": "378",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page378.png"
+  },
+  {
+    "quranPage": "379",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page379.png"
+  },
+  {
+    "quranPage": "380",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page380.png"
+  },
+  {
+    "quranPage": "381",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page381.png"
+  },
+  {
+    "quranPage": "382",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page382.png"
+  },
+  {
+    "quranPage": "383",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page383.png"
+  },
+  {
+    "quranPage": "384",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page384.png"
+  },
+  {
+    "quranPage": "385",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page385.png"
+  },
+  {
+    "quranPage": "386",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page386.png"
+  },
+  {
+    "quranPage": "387",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page387.png"
+  },
+  {
+    "quranPage": "388",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page388.png"
+  },
+  {
+    "quranPage": "389",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page389.png"
+  },
+  {
+    "quranPage": "390",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page390.png"
+  },
+  {
+    "quranPage": "391",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page391.png"
+  },
+  {
+    "quranPage": "392",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page392.png"
+  },
+  {
+    "quranPage": "393",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page393.png"
+  },
+  {
+    "quranPage": "394",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page394.png"
+  },
+  {
+    "quranPage": "395",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page395.png"
+  },
+  {
+    "quranPage": "396",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page396.png"
+  },
+  {
+    "quranPage": "397",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page397.png"
+  },
+  {
+    "quranPage": "398",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page398.png"
+  },
+  {
+    "quranPage": "399",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page399.png"
+  },
+  {
+    "quranPage": "400",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page400.png"
+  },
+  {
+    "quranPage": "401",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page401.png"
+  },
+  {
+    "quranPage": "402",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page402.png"
+  },
+  {
+    "quranPage": "403",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page403.png"
+  },
+  {
+    "quranPage": "404",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page404.png"
+  },
+  {
+    "quranPage": "405",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page405.png"
+  },
+  {
+    "quranPage": "406",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page406.png"
+  },
+  {
+    "quranPage": "407",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page407.png"
+  },
+  {
+    "quranPage": "408",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page408.png"
+  },
+  {
+    "quranPage": "409",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page409.png"
+  },
+  {
+    "quranPage": "410",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page410.png"
+  },
+  {
+    "quranPage": "411",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page411.png"
+  },
+  {
+    "quranPage": "412",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page412.png"
+  },
+  {
+    "quranPage": "413",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page413.png"
+  },
+  {
+    "quranPage": "414",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page414.png"
+  },
+  {
+    "quranPage": "415",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page415.png"
+  },
+  {
+    "quranPage": "416",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page416.png"
+  },
+  {
+    "quranPage": "417",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page417.png"
+  },
+  {
+    "quranPage": "418",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page418.png"
+  },
+  {
+    "quranPage": "419",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page419.png"
+  },
+  {
+    "quranPage": "420",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page420.png"
+  },
+  {
+    "quranPage": "421",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page421.png"
+  },
+  {
+    "quranPage": "422",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page422.png"
+  },
+  {
+    "quranPage": "423",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page423.png"
+  },
+  {
+    "quranPage": "424",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page424.png"
+  },
+  {
+    "quranPage": "425",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page425.png"
+  },
+  {
+    "quranPage": "426",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page426.png"
+  },
+  {
+    "quranPage": "427",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page427.png"
+  },
+  {
+    "quranPage": "428",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page428.png"
+  },
+  {
+    "quranPage": "429",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page429.png"
+  },
+  {
+    "quranPage": "430",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page430.png"
+  },
+  {
+    "quranPage": "431",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page431.png"
+  },
+  {
+    "quranPage": "432",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page432.png"
+  },
+  {
+    "quranPage": "433",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page433.png"
+  },
+  {
+    "quranPage": "434",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page434.png"
+  },
+  {
+    "quranPage": "435",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page435.png"
+  },
+  {
+    "quranPage": "436",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page436.png"
+  },
+  {
+    "quranPage": "437",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page437.png"
+  },
+  {
+    "quranPage": "438",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page438.png"
+  },
+  {
+    "quranPage": "439",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page439.png"
+  },
+  {
+    "quranPage": "440",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page440.png"
+  },
+  {
+    "quranPage": "441",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page441.png"
+  },
+  {
+    "quranPage": "442",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page442.png"
+  },
+  {
+    "quranPage": "443",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page443.png"
+  },
+  {
+    "quranPage": "444",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page444.png"
+  },
+  {
+    "quranPage": "445",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page445.png"
+  },
+  {
+    "quranPage": "446",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page446.png"
+  },
+  {
+    "quranPage": "447",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page447.png"
+  },
+  {
+    "quranPage": "448",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page448.png"
+  },
+  {
+    "quranPage": "449",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page449.png"
+  },
+  {
+    "quranPage": "450",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page450.png"
+  },
+  {
+    "quranPage": "451",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page451.png"
+  },
+  {
+    "quranPage": "452",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page452.png"
+  },
+  {
+    "quranPage": "453",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page453.png"
+  },
+  {
+    "quranPage": "454",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page454.png"
+  },
+  {
+    "quranPage": "455",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page455.png"
+  },
+  {
+    "quranPage": "456",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page456.png"
+  },
+  {
+    "quranPage": "457",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page457.png"
+  },
+  {
+    "quranPage": "458",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page458.png"
+  },
+  {
+    "quranPage": "459",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page459.png"
+  },
+  {
+    "quranPage": "460",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page460.png"
+  },
+  {
+    "quranPage": "461",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page461.png"
+  },
+  {
+    "quranPage": "462",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page462.png"
+  },
+  {
+    "quranPage": "463",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page463.png"
+  },
+  {
+    "quranPage": "464",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page464.png"
+  },
+  {
+    "quranPage": "465",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page465.png"
+  },
+  {
+    "quranPage": "466",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page466.png"
+  },
+  {
+    "quranPage": "467",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page467.png"
+  },
+  {
+    "quranPage": "468",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page468.png"
+  },
+  {
+    "quranPage": "469",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page469.png"
+  },
+  {
+    "quranPage": "470",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page470.png"
+  },
+  {
+    "quranPage": "471",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page471.png"
+  },
+  {
+    "quranPage": "472",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page472.png"
+  },
+  {
+    "quranPage": "473",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page473.png"
+  },
+  {
+    "quranPage": "474",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page474.png"
+  },
+  {
+    "quranPage": "475",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page475.png"
+  },
+  {
+    "quranPage": "476",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page476.png"
+  },
+  {
+    "quranPage": "477",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page477.png"
+  },
+  {
+    "quranPage": "478",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page478.png"
+  },
+  {
+    "quranPage": "479",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page479.png"
+  },
+  {
+    "quranPage": "480",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page480.png"
+  },
+  {
+    "quranPage": "481",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page481.png"
+  },
+  {
+    "quranPage": "482",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page482.png"
+  },
+  {
+    "quranPage": "483",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page483.png"
+  },
+  {
+    "quranPage": "484",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page484.png"
+  },
+  {
+    "quranPage": "485",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page485.png"
+  },
+  {
+    "quranPage": "486",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page486.png"
+  },
+  {
+    "quranPage": "487",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page487.png"
+  },
+  {
+    "quranPage": "488",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page488.png"
+  },
+  {
+    "quranPage": "489",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page489.png"
+  },
+  {
+    "quranPage": "490",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page490.png"
+  },
+  {
+    "quranPage": "491",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page491.png"
+  },
+  {
+    "quranPage": "492",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page492.png"
+  },
+  {
+    "quranPage": "493",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page493.png"
+  },
+  {
+    "quranPage": "494",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page494.png"
+  },
+  {
+    "quranPage": "495",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page495.png"
+  },
+  {
+    "quranPage": "496",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page496.png"
+  },
+  {
+    "quranPage": "497",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page497.png"
+  },
+  {
+    "quranPage": "498",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page498.png"
+  },
+  {
+    "quranPage": "499",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page499.png"
+  },
+  {
+    "quranPage": "500",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page500.png"
+  },
+  {
+    "quranPage": "501",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page501.png"
+  },
+  {
+    "quranPage": "502",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page502.png"
+  },
+  {
+    "quranPage": "503",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page503.png"
+  },
+  {
+    "quranPage": "504",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page504.png"
+  },
+  {
+    "quranPage": "505",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page505.png"
+  },
+  {
+    "quranPage": "506",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page506.png"
+  },
+  {
+    "quranPage": "507",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page507.png"
+  },
+  {
+    "quranPage": "508",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page508.png"
+  },
+  {
+    "quranPage": "509",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page509.png"
+  },
+  {
+    "quranPage": "510",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page510.png"
+  },
+  {
+    "quranPage": "511",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page511.png"
+  },
+  {
+    "quranPage": "512",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page512.png"
+  },
+  {
+    "quranPage": "513",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page513.png"
+  },
+  {
+    "quranPage": "514",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page514.png"
+  },
+  {
+    "quranPage": "515",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page515.png"
+  },
+  {
+    "quranPage": "516",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page516.png"
+  },
+  {
+    "quranPage": "517",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page517.png"
+  },
+  {
+    "quranPage": "518",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page518.png"
+  },
+  {
+    "quranPage": "519",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page519.png"
+  },
+  {
+    "quranPage": "520",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page520.png"
+  },
+  {
+    "quranPage": "521",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page521.png"
+  },
+  {
+    "quranPage": "522",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page522.png"
+  },
+  {
+    "quranPage": "523",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page523.png"
+  },
+  {
+    "quranPage": "524",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page524.png"
+  },
+  {
+    "quranPage": "525",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page525.png"
+  },
+  {
+    "quranPage": "526",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page526.png"
+  },
+  {
+    "quranPage": "527",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page527.png"
+  },
+  {
+    "quranPage": "528",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page528.png"
+  },
+  {
+    "quranPage": "529",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page529.png"
+  },
+  {
+    "quranPage": "530",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page530.png"
+  },
+  {
+    "quranPage": "531",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page531.png"
+  },
+  {
+    "quranPage": "532",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page532.png"
+  },
+  {
+    "quranPage": "533",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page533.png"
+  },
+  {
+    "quranPage": "534",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page534.png"
+  },
+  {
+    "quranPage": "535",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page535.png"
+  },
+  {
+    "quranPage": "536",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page536.png"
+  },
+  {
+    "quranPage": "537",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page537.png"
+  },
+  {
+    "quranPage": "538",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page538.png"
+  },
+  {
+    "quranPage": "539",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page539.png"
+  },
+  {
+    "quranPage": "540",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page540.png"
+  },
+  {
+    "quranPage": "541",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page541.png"
+  },
+  {
+    "quranPage": "542",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page542.png"
+  },
+  {
+    "quranPage": "543",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page543.png"
+  },
+  {
+    "quranPage": "544",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page544.png"
+  },
+  {
+    "quranPage": "545",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page545.png"
+  },
+  {
+    "quranPage": "546",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page546.png"
+  },
+  {
+    "quranPage": "547",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page547.png"
+  },
+  {
+    "quranPage": "548",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page548.png"
+  },
+  {
+    "quranPage": "549",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page549.png"
+  },
+  {
+    "quranPage": "550",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page550.png"
+  },
+  {
+    "quranPage": "551",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page551.png"
+  },
+  {
+    "quranPage": "552",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page552.png"
+  },
+  {
+    "quranPage": "553",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page553.png"
+  },
+  {
+    "quranPage": "554",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page554.png"
+  },
+  {
+    "quranPage": "555",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page555.png"
+  },
+  {
+    "quranPage": "556",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page556.png"
+  },
+  {
+    "quranPage": "557",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page557.png"
+  },
+  {
+    "quranPage": "558",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page558.png"
+  },
+  {
+    "quranPage": "559",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page559.png"
+  },
+  {
+    "quranPage": "560",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page560.png"
+  },
+  {
+    "quranPage": "561",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page561.png"
+  },
+  {
+    "quranPage": "562",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page562.png"
+  },
+  {
+    "quranPage": "563",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page563.png"
+  },
+  {
+    "quranPage": "564",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page564.png"
+  },
+  {
+    "quranPage": "565",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page565.png"
+  },
+  {
+    "quranPage": "566",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page566.png"
+  },
+  {
+    "quranPage": "567",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page567.png"
+  },
+  {
+    "quranPage": "568",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page568.png"
+  },
+  {
+    "quranPage": "569",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page569.png"
+  },
+  {
+    "quranPage": "570",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page570.png"
+  },
+  {
+    "quranPage": "571",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page571.png"
+  },
+  {
+    "quranPage": "572",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page572.png"
+  },
+  {
+    "quranPage": "573",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page573.png"
+  },
+  {
+    "quranPage": "574",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page574.png"
+  },
+  {
+    "quranPage": "575",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page575.png"
+  },
+  {
+    "quranPage": "576",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page576.png"
+  },
+  {
+    "quranPage": "577",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page577.png"
+  },
+  {
+    "quranPage": "578",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page578.png"
+  },
+  {
+    "quranPage": "579",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page579.png"
+  },
+  {
+    "quranPage": "580",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page580.png"
+  },
+  {
+    "quranPage": "581",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page581.png"
+  },
+  {
+    "quranPage": "582",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page582.png"
+  },
+  {
+    "quranPage": "583",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page583.png"
+  },
+  {
+    "quranPage": "584",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page584.png"
+  },
+  {
+    "quranPage": "585",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page585.png"
+  },
+  {
+    "quranPage": "586",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page586.png"
+  },
+  {
+    "quranPage": "587",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page587.png"
+  },
+  {
+    "quranPage": "588",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page588.png"
+  },
+  {
+    "quranPage": "589",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page589.png"
+  },
+  {
+    "quranPage": "590",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page590.png"
+  },
+  {
+    "quranPage": "591",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page591.png"
+  },
+  {
+    "quranPage": "592",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page592.png"
+  },
+  {
+    "quranPage": "593",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page593.png"
+  },
+  {
+    "quranPage": "594",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page594.png"
+  },
+  {
+    "quranPage": "595",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page595.png"
+  },
+  {
+    "quranPage": "596",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page596.png"
+  },
+  {
+    "quranPage": "597",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page597.png"
+  },
+  {
+    "quranPage": "598",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page598.png"
+  },
+  {
+    "quranPage": "599",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page599.png"
+  },
+  {
+    "quranPage": "600",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page600.png"
+  },
+  {
+    "quranPage": "601",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page601.png"
+  },
+  {
+    "quranPage": "602",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page602.png"
+  },
+  {
+    "quranPage": "603",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page603.png"
+  },
+  {
+    "quranPage": "604",
+    "quranImage": "packages/quran_com_api/assets/quran_images/page604.png"
+  }
+]
