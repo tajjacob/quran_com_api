@@ -1,9 +1,11 @@
 import 'package:example/features/quran_images/presentation/pages/quran_image_page.dart';
+import 'package:example/features/quran_images/presentation/pages/quran_juz_list_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'features/audio/presentation/pages/audio_page.dart';
 import 'features/audio/presentation/widgets/audio_file_consumer.dart';
+import 'features/quran_images/presentation/pages/quran_surah_list_page.dart';
 
 void main() {
   runApp(
@@ -122,6 +124,30 @@ class _MyHomePageState extends State<MyHomePage> {
                 );
               },
               child: const Text('Go to Quran Image Page'),
+            ),
+            const SizedBox(height: 20),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const QuranJuzListPage(),
+                  ),
+                );
+              },
+              child: const Text('Go to Quran Juz List'),
+            ),
+            const SizedBox(height: 20),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const QuranSurahListPage(),
+                  ),
+                );
+              },
+              child: const Text('Go to Quran Surah List'),
             ),
           ],
         ),
