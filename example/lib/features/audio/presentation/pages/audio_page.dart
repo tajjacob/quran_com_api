@@ -52,6 +52,7 @@ class AudioPage extends StatelessWidget {
                 },
                 child: const Text('01. Get Audio File'),
               ),
+              const SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () async {
                   audioFileList = await audioFileRepo.getAudioFileList(
@@ -71,6 +72,7 @@ class AudioPage extends StatelessWidget {
                 },
                 child: const Text('02. Get Audio File List'),
               ),
+              const SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () async {
                   recitationList = await recitationRepo.getRecitationList(
@@ -90,6 +92,7 @@ class AudioPage extends StatelessWidget {
                 },
                 child: const Text('03. Get Recitation List'),
               ),
+              const SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () async {
                   audioSingleList = await audioSingleRepo.getAudioFileList(
