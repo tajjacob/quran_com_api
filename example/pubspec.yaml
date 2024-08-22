@@ -38,6 +38,9 @@ dependencies:
   flutter_riverpod: ^2.5.1
   riverpod: ^2.5.1
   riverpod_annotation: ^2.3.5
+  flutter_screenutil: ^5.9.3
+
+
 
   quran_com_api:
     path: ../

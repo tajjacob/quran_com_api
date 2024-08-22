@@ -1,5 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:quran_com_api/quran_com_api.dart';
 
 class QuranJuzListPage extends StatefulWidget {
@@ -73,9 +74,10 @@ class _QuranJuzListPageState extends State<QuranJuzListPage> {
           } else if (snapshot.hasError) {
             return Text('Error: ${snapshot.error}');
           } else {
-            return const SizedBox(
+            return SizedBox(
               height: 500,
-              child: CircularProgressIndicator.adaptive(),
+              width: 1.sw,
+              child: const CircularProgressIndicator.adaptive(),
             );
           }
         },
