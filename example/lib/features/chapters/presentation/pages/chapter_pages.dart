@@ -1,5 +1,9 @@
 import 'package:example/features/chapters/presentation/pages/chapter_list_page.dart';
+import 'package:example/features/chapters/presentation/pages/chapter_single_page.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+import 'chapter_info_page.dart';
 
 class ChapterPages extends StatelessWidget {
   const ChapterPages({super.key});
@@ -29,7 +33,30 @@ class ChapterPages extends StatelessWidget {
                   );
                 },
               ),
-              const SizedBox(height: 20),
+              SizedBox(height: 20.h),
+              ElevatedButton(
+                child: const Text('Go to Chapter Single Page'),
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const ChapterSinglePage(),
+                    ),
+                  );
+                },
+              ),
+              SizedBox(height: 20.h),
+              ElevatedButton(
+                child: const Text('Go to Chapter Info Page'),
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const ChapterInfoPage(),
+                    ),
+                  );
+                },
+              ),
             ],
           ),
         ),
