@@ -11,6 +11,10 @@ export 'src/features/audio/data/repositories/audio_single_repo.dart';
 export 'src/features/audio/data/repositories/recitation_repo.dart';
 // params
 export 'src/features/audio/domain/params/audio_single_param.dart';
+export 'src/features/chapters/data/models/chapter_info_model.dart';
+export 'src/features/chapters/data/models/chapter_model.dart';
+export 'src/features/chapters/data/models/chapter_translated_name_model.dart';
+export 'src/features/chapters/data/repositories/chapter_repo.dart';
 export 'src/features/quran_images/data/models/quran_image_model.dart';
 export 'src/features/quran_images/data/models/quran_juz_model.dart';
 export 'src/features/quran_images/data/models/quran_rub_model.dart';

@@ -5,6 +5,7 @@ import 'package:example/features/audio/presentation/pages/recitation_list_page.d
 import 'package:flutter/material.dart';
 import 'package:quran_com_api/quran_com_api.dart';
 
+import '../widgets/audio_file_consumer.dart';
 import 'audio_file_page.dart';
 import 'audio_single_list_page.dart';
 
@@ -33,6 +34,18 @@ class AudioPage extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               ElevatedButton(
+                child: const Text('Go to AudioFileConsumer Example'),
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const AudioFileConsumer(),
+                    ),
+                  );
+                },
+              ),
+              const SizedBox(height: 20),
+              ElevatedButton(
                 onPressed: () async {
                   audioFileModel = await audioFileRepo.getAudioFile(
                     reciterId: 1,
@@ -52,6 +65,7 @@ class AudioPage extends StatelessWidget {
                 },
                 child: const Text('01. Get Audio File'),
               ),
+              const SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () async {
                   audioFileList = await audioFileRepo.getAudioFileList(
@@ -71,6 +85,7 @@ class AudioPage extends StatelessWidget {
                 },
                 child: const Text('02. Get Audio File List'),
               ),
+              const SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () async {
                   recitationList = await recitationRepo.getRecitationList(
@@ -90,6 +105,7 @@ class AudioPage extends StatelessWidget {
                 },
                 child: const Text('03. Get Recitation List'),
               ),
+              const SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () async {
                   audioSingleList = await audioSingleRepo.getAudioFileList(
