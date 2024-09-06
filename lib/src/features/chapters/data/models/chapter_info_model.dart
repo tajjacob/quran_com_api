@@ -1,10 +1,3 @@
-// "id": 1, //int?
-// "chapter_id": 1, //int?
-// "language_name": "english", //String?
-// "short_text": "This Surah is named Al- //String?
-// "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran", //String?
-// "text": "<h2>Name</h //String?
-
 class ChapterInfo {
   ChapterInfo({
     this.id,

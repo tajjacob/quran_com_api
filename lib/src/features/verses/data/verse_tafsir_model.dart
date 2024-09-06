@@ -1,10 +1,3 @@
-// {
-// "id": 82641, //int?
-// "language_name": "english", //String?
-// "name": "Tafsir Ibn Kathir", //String?
-// "text": "<h2 class=\"title\">Which was revealed in Makkah</h2><h2 class=\"title\">The Meaning of Al-Fatihah and its Various Names</h2>" //String?
-// }
-
 class VerseTafsir {
   VerseTafsir({
     this.id,
