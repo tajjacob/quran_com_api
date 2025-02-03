@@ -117,14 +117,16 @@ class AudioPage extends StatelessWidget {
                   if (audioSingleList != null) {
                     log('audioSingleList: ${audioSingleList?.first.url}.\n'
                         'Note: url provided by api not complete');
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => AudioSingleListPage(
-                          audioSingleList: audioSingleList,
+                    if (context.mounted) {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => AudioSingleListPage(
+                            audioSingleList: audioSingleList,
+                          ),
                         ),
-                      ),
-                    );
+                      );
+                    }
                   }
                 },
                 child: const Text(

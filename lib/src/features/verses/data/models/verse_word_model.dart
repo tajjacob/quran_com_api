@@ -8,6 +8,7 @@ class VerseWord {
   final int? lineNumber;
   final int? pageNumber;
   final String? codeV1;
+  final String? text;
   final VerseWordTrans? translation;
   final VerseWordTrans? transliteration;
 
@@ -19,6 +20,7 @@ class VerseWord {
     this.lineNumber,
     this.pageNumber,
     this.codeV1,
+    this.text,
     this.translation,
     this.transliteration,
   });
@@ -31,6 +33,7 @@ class VerseWord {
         lineNumber: json['line_number'] as int?,
         pageNumber: json['page_number'] as int?,
         codeV1: json['code_v1'] as String?,
+        text: json['text'] as String?,
         translation: json['translation'] == null
             ? null
             : VerseWordTrans.fromJson(json['translation']),
@@ -47,6 +50,7 @@ class VerseWord {
         'line_number': lineNumber,
         'page_number': pageNumber,
         'code_v1': codeV1,
+        'text': text,
         'translation': translation?.toJson(),
         'transliteration': transliteration?.toJson(),
       };

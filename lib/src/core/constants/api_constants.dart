@@ -6,4 +6,5 @@ class APIConstants {
   static const String recitationListUrl = '/resources/recitations';
   static const String audioFileList = '/quran/recitations';
   static const String chapterListUrl = '/chapters';
+  static const String verseByChapterListUrl = '/verses/by_chapter';
 }

@@ -1,7 +1,7 @@
 library quran_com_api;
 
 export 'src/core/constants/api_constants.dart';
-// models
+// params
 export 'src/features/audio/data/models/audio_file_model.dart';
 export 'src/features/audio/data/models/audio_single_model.dart';
 export 'src/features/audio/data/models/recitation_model.dart';
@@ -23,5 +23,16 @@ export 'src/features/quran_images/data/models/quran_surah_model.dart';
 export 'src/features/quran_images/data/repositories/quran_image_repo.dart';
 export 'src/features/quran_images/data/repositories/quran_juz_repo.dart';
 export 'src/features/quran_images/data/repositories/quran_surah_repo.dart';
-
 // assets
+
+// verses
+export 'src/features/verses/data/models/verse_by_chapter_model.dart';
+export 'src/features/verses/data/models/verse_model.dart';
+export 'src/features/verses/data/models/verse_pagination_model.dart';
+export 'src/features/verses/data/models/verse_tafsir_model.dart';
+export 'src/features/verses/data/models/verse_translation_model.dart';
+export 'src/features/verses/data/models/verse_word_model.dart';
+export 'src/features/verses/data/models/verse_word_trans_model.dart';
+export 'src/features/verses/data/models/verses_model.dart';
+export 'src/features/verses/data/repositories/verse_repo.dart';
+export 'src/features/verses/domain/params/verse_by_chapter_param.dart';

@@ -19,7 +19,7 @@ class AudioFileConsumer extends ConsumerWidget {
           data: (audioFile) {
             return ListTile(
               onTap: () {
-                ref.refresh(audioFileProvider);
+                // ref.refresh(audioFileProvider);
               },
               leading: Text('Id: ${audioFile?.id}'),
               title: Text('Audio File: ${audioFile?.audioUrl}'),
@@ -30,7 +30,7 @@ class AudioFileConsumer extends ConsumerWidget {
           error: (error, stackTrace) => ElevatedButton(
             child: Text('Error: $error, Please try again.'),
             onPressed: () {
-              ref.refresh(audioFileProvider);
+              // ref.refresh(audioFileProvider);
             },
           ),
         ),

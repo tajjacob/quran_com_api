@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'features/audio/presentation/pages/audio_page.dart';
 import 'features/chapters/presentation/pages/chapter_pages.dart';
 import 'features/quran_images/presentation/pages/quran_images_list_page.dart';
+import 'features/verses/presentation/verse_by_chapter_page.dart';
 
 class QuranComApiPage extends StatefulWidget {
   const QuranComApiPage({super.key, required this.title});
@@ -59,6 +60,18 @@ class _QuranComApiPageState extends State<QuranComApiPage> {
                 );
               },
               child: const Text('Go to Quran Chapter Pages'),
+            ),
+            const SizedBox(height: 20),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const VerseByChapterPage(),
+                  ),
+                );
+              },
+              child: const Text('Go to Quran Verse By Chapter Pages'),
             ),
           ],
         ),

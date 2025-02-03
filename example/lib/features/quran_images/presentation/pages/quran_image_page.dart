@@ -59,7 +59,7 @@ class _QuranImagePageState extends State<QuranImagePage> {
           } else {
             return const SizedBox(
               height: 500,
-              child: CircularProgressIndicator.adaptive(),
+              child: Center(child: CircularProgressIndicator.adaptive()),
             );
           }
         },
