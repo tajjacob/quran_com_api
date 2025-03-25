@@ -52,7 +52,7 @@ class VerseByChapterParam {
   final String? translations;
   final int? audio;
   final String? tafsirs;
-  final String? wordFields;
+  final List<String>? wordFields;
   final String? translationFields;
   final String? fields;
   final int? page;

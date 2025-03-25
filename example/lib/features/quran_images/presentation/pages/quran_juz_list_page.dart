@@ -60,6 +60,9 @@ class _QuranJuzListPageState extends State<QuranJuzListPage> {
                                   subtitle: Text(
                                     r.firstWord,
                                   ),
+                                  trailing: Text(
+                                    r.page,
+                                  ),
                                 );
                               },
                             ).toList(),

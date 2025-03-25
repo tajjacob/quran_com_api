@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:quran_com_api/quran_com_api.dart';
 
 class VerseByChapterPage extends StatefulWidget {
@@ -13,9 +14,11 @@ class _VerseByChapterPageState extends State<VerseByChapterPage> {
 
   Future<Verses?> getVerseByChapter() async {
     Verses? verses = await chapterRepo.getVerseByChapter(
-      chapter: 1,
+      chapter: 113,
       params: VerseByChapterParam(
         words: true,
+        language: 'ar',
+        wordFields: ['text_uthmani'],
         // page: 2,
       ),
     );
@@ -44,7 +47,21 @@ class _VerseByChapterPageState extends State<VerseByChapterPage> {
             itemCount: verses?.verses?.length,
             itemBuilder: (context, index) {
               return ListTile(
-                title: Text(verses?.verses?[index].verseKey ?? 'N/A'),
+                trailing: Text(verses?.verses?[index].verseKey ?? 'N/A'),
+                title: Wrap(
+                  textDirection: TextDirection.rtl,
+                  children: verses?.verses?[index].words
+                          ?.map(
+                            (e) => Text(
+                              '${e.textUthmani} ',
+                              style: GoogleFonts.amiri(
+                                letterSpacing: 0.3,
+                              ),
+                            ),
+                          )
+                          .toList() ??
+                      [],
+                ),
                 subtitle: Wrap(
                   children: verses?.verses?[index].words
                           ?.map((e) => Text('${e.translation?.text} '))
