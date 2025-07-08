@@ -1,7 +1,7 @@
 import 'package:quran_com_api/quran_com_api.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
-final audioFileProvider = Provider((ref) => AudioFileRepo());
+// final audioFileProvider = Provider((ref) => AudioFileRepo());
 
 class AudioFileRepo {
   Future<AudioFile?> getAudioFile() async {
